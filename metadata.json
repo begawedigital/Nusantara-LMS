@@ -1,0 +1,6 @@
+{
+  "name": "Platform LMS Sederhana",
+  "description": "Platform Learning Management System (LMS) sederhana untuk belajar tanpa login, dilengkapi fitur unggah materi, kuis interaktif, pelacakan progress, dashboard admin, dan dukungan mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
